@@ -14,6 +14,14 @@
  *= require_self
  */
 
+ .bg-light-gray {
+  background-color: rgba(176, 186, 228, 0.377);
+}
+
+ .body {
+  background-color: beige;
+ }
+
  .flex {
   display: flex;
 }
